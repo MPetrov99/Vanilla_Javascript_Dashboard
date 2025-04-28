@@ -4,9 +4,11 @@ This project is a fully responsive dashboard built using HTML, CSS (with SCSS sy
 
 Features: 
 
-Responsive Navigation Menu 
-Mobile-first hamburger menu that toggles a dropdown. 
-Full menu visible on larger screens (≥768px). 
+Responsive Navigation Menu
+
+Mobile-first hamburger menu that toggles a dropdown.
+
+Full menu visible on larger screens (≥768px).
 
 Dashboard Layout
 Sidebar navigation with clickable options.
