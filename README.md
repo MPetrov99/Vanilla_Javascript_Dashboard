@@ -2,7 +2,7 @@ Overview:
 
 This project is a fully responsive dashboard built using HTML, CSS (with SCSS syntax), and Vanilla JavaScript — no frameworks. It demonstrates a clean, modern user interface with dynamic user interaction, responsive behavior across devices, and API-driven content.
 
-Features:
+Features: 
 
 Responsive Navigation Menu
 Mobile-first hamburger menu that toggles a dropdown.
