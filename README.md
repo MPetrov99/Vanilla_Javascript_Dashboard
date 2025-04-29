@@ -43,7 +43,7 @@ How to Run:
 - Open index.html in your preferred browser.
 - Interact with the dashboard — search users, click user cards, explore posts!
 - No local server needed. Pure static front-end project.
-- 
+
 Possible Improvements:
 - Add routing (e.g., with a library or Vanilla JS hash-routing) for better user experience.
 - Integrate a backend or database for real user management.
