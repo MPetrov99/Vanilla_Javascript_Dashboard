@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Modal Elements
     let modalOverlay;
 
-    // Fetch and render users:
+    // Fetch and render users
     // fetchUsers is an async function that retrieves user data from an API using the fetch() method. It waits
     // for the response, checks if it's OK, parses the JSON, and stores the users in a global variable. Then it
     // renders them to the DOM. If any error occurs during the request or parsing, it shows an error message in
