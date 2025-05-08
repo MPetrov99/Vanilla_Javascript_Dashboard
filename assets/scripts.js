@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const itemsContainer = document.querySelector('.hamburger .items');
 
     hamburgerImg.addEventListener('click', (event) => {
+        // .stopPropagation() to preventing default and stop the stacking on click events
         event.stopPropagation();
         itemsContainer.classList.toggle('active');
     });
